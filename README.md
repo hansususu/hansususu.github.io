@@ -1,4 +1,4 @@
-#hansususu github page
+# hansususu github page
 
-##Who is the hansusu?
-hansusu is a student of computer science!
+## Who is the hansusu?
+
